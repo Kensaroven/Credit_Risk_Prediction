@@ -17,12 +17,25 @@ It is almost impossible to understand the original dataset due to its complicate
     
     
     
-    
 ### KMeans:
 35.87 seems to be the mean duration and 6911.78 seems to be the mean credit amount of the cluster 1 where we have the riskiest bunch of customers
+
+![alt text](https://github.com/Kensaroven/Credit_Risk_Prediction/blob/main/Kmeans.png?raw=true)
+
+![alt text](https://github.com/Kensaroven/Credit_Risk_Prediction/blob/main/Kmenas%20scatter.png?raw=true)
+
 
 ### Hierarchial:
 41.01 seems to be the mean duration and 8507.35 seems to be the mean credit amount of the cluster 1 where we have the riskiest bunch of customers
 
+![alt text](https://github.com/Kensaroven/Credit_Risk_Prediction/blob/main/Hierarchial%20Linkage.png?raw=true)
+
+![alt text](https://github.com/Kensaroven/Credit_Risk_Prediction/blob/main/Hierarchial%20scatter.png?raw=true)
+
+
 ### DBSCAN:
 27.66 seems to be the mean duration and 5599.62 seems to be the mean credit amount of the cluster -1 where we have the riskiest bunch of customers
+
+![alt text](https://github.com/Kensaroven/Credit_Risk_Prediction/blob/main/DBscan.png?raw=true)
+
+![alt text](https://github.com/Kensaroven/Credit_Risk_Prediction/blob/main/dbscan%20hierarchial.png?raw=true)
